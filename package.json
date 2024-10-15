@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    // ... existing dependencies
+    "next-auth": "^4.22.1",
+    "@supabase/supabase-js": "^2.26.0",
+    "next-themes": "^0.2.1"
+  }
+}
